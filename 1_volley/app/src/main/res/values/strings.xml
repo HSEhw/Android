@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">1_volley</string>
+    <string name="get_data">Get data</string>
 </resources>
