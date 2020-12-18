@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/3_rxjava.iml" filepath="$PROJECT_DIR$/.idea/modules/3_rxjava.iml" group="3_rxjava" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/3_rxjava-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/3_rxjava-app.iml" group="3_rxjava/app" />
+      <module fileurl="file://$PROJECT_DIR$/HandlerThread.iml" filepath="$PROJECT_DIR$/HandlerThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
